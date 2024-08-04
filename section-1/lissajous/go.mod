@@ -1,3 +1,3 @@
-module example.com/gif.bin
+module example.com/lissajous
 
 go 1.22.5
